@@ -112,7 +112,7 @@ Make sure you have installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SharePlate.git
+git clone https://github.com/kunalllll18/SharePlate.git
 cd SharePlate
 ```
 
