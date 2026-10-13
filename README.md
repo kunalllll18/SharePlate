@@ -116,7 +116,6 @@ git clone https://github.com/kunalllll18/SharePlate.git
 cd SharePlate
 ```
 
-> 💡 Replace kunalllll18 with your GitHub username.
 
 ### 2️⃣ Configure MySQL 🗄️
 
